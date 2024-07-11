@@ -1,4 +1,4 @@
 # Muzucollege-demo
 This is my first Repository
 <br>
-Author-Mohammed Muzammil
+Author-Mohammed Muzammil k
